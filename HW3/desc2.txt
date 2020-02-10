@@ -1,0 +1,9 @@
+0, 1
+Humidity : continuous
+Windy : continuous
+Outlook_Overcast : continuous
+Outlook_Rainy : continuous
+Outlook_Sunny : continuous
+Temperature_Cool : continuous
+Temperature_Hot : continuous
+Temperature_Mild : continuous

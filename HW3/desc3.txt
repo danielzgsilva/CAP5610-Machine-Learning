@@ -1,0 +1,8 @@
+0, 1
+Home/Away : continuous
+Top25 : continuous
+Media_ABC : continuous
+Media_ESPN : continuous
+Media_FOX : continuous
+Media_NBC : continuous
+Media_CBS : continuous
